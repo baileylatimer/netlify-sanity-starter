@@ -5,7 +5,7 @@ import PixelizeImage from './PixelizeImage';
 import { SanityImageSource } from '@sanity/image-url/lib/types/types';
 
 const client = createClient({
-  projectId: 'hv36fjce',
+  projectId: 'uxddufsz',
   dataset: 'production',
   useCdn: false,
   apiVersion: '2023-05-03',

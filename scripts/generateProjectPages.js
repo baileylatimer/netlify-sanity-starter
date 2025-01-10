@@ -7,7 +7,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const client = createClient({
-  projectId: 'hv36fjce',
+  projectId: 'uxddufsz',
   dataset: 'production',
   apiVersion: '2023-05-03',
   useCdn: false,
